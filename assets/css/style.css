@@ -1,0 +1,48 @@
+body {
+  background-image: url("../../assets/images/paper.gif");
+}
+
+.container {
+	margin-top:2.5vh;
+	width: 70vw;
+	min-height: 95vh;
+    border-radius: 25px;
+    background-color:#FBF5E6;
+ 	margin-left:auto;
+	margin-right:auto;
+}
+
+.center {
+	text-align: center;
+}
+
+.olive-text {
+	color: olive;
+}
+
+.small-padding {
+	padding: 10px;
+}
+.large-button{
+	font-size: xx-large;
+    background-color: #D9D98B;
+    border: solid 1px #000;
+    border-radius: 30%;
+	
+}
+
+ul {
+	list-style-type: none;
+}
+
+.option {
+	margin:1em;
+	padding: 1em;
+	font-weight: bold;
+	border: 1px solid;
+}
+
+.option:hover {
+	background-color:green;
+	color:white;
+}
